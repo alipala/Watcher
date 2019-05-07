@@ -1,0 +1,1 @@
+https://www.michaelcho.me/article/using-pythons-watchdog-to-monitor-changes-to-a-directory
